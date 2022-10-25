@@ -1,0 +1,11 @@
+CD|Discipline
+23 Logics and rhetoric
+24 Higher math
+25 Applied informatics
+26 The history of Belarus
+27 Economic theory
+28 Algoritmisation and programming
+29 Programming technologies
+30 Web-design
+31 The theory of probabilities
+32 Modeling
